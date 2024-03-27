@@ -64,6 +64,8 @@ group :development do
   # gem "spring"
 end
 
+
+gem 'pry-rails'
 gem 'devise'
 
 group :test do
